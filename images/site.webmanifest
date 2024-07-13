@@ -1,0 +1,19 @@
+{
+    "name": "",
+    "short_name": "",
+    "icons": [
+       {
+          "src": "/jianbinpage192.png",
+          "sizes": "162x192",
+          "type": "image/png"
+       },
+       {
+        "src": "/jianbinpage2.png",
+        "sizes": "432x512",
+        "type": "image/png"
+        }
+    ],
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF",
+    "display": "standalone"
+ }
